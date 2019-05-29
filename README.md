@@ -11,15 +11,19 @@ Binder takes this GitHub repository and launches a Jupyter Notebook server that 
 
 If you like using Jupyter Notebooks and want to be able to save your work, you have a few options:
 
-1. Install Python, Jupyter, and any dependencies on your own computer. The easiest way of doing this is by downloading and installing [Anaconda distribution](https://www.anaconda.com/distribution/). To run the Jupyter Notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows): 
+**1. Install Python, Jupyter, and any dependencies on your own computer**
 
-`jupyter notebook`
+The easiest way of doing this is by downloading and installing [Anaconda distribution](https://www.anaconda.com/distribution/). To run the Jupyter Notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows): 
 
-2. Run your code on a hosted Jupyter Notebook server. You have a few free and paid options:
-* [Gryd](https://gryd.us/)
-* [Google CoLab](https://colab.research.google.com)
-* [Kaggle kernels](https://www.kaggle.com/kernels)
-* [CodeOcean](https://codeocean.com/)
+>`jupyter notebook`
+
+**2. Run your code on a hosted Jupyter Notebook server**
+
+You have a few free and paid options:
+>* [Gryd](https://gryd.us/)
+>* [Google CoLab](https://colab.research.google.com)
+>* [Kaggle kernels](https://www.kaggle.com/kernels)
+>* [CodeOcean](https://codeocean.com/)
 
 Most of these will require you to create an account.
 
